@@ -1,0 +1,20 @@
+Install Dependencies:
+
+Bash
+pip install google-genai
+Get an API Key:
+
+Create a free key in Google AI Studio.
+
+Set it as an environment variable (recommended):
+
+Windows (PowerShell): $env:GEMINI_API_KEY="your_api_key_here"
+
+Linux/macOS: export GEMINI_API_KEY="your_api_key_here"
+
+Running the Bot
+Run the script directly in your terminal:
+
+Bash
+python try.py
+Type your prompt and press Enter. Type exit when you want to leave.
